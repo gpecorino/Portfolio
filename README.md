@@ -5,7 +5,7 @@ This project analyzes trends in video game sales history to draw meaningful obse
 
 ## Model Predictions vs Original Data ![](images/ml_result.png)
 
-# [Project 2: Northwind Data Exploration](https://github.com/gpecorino/Northwind-Data-Exploration)
+# [Project 2: Northwind Data Visualizations](https://github.com/gpecorino/Northwind-Data-Visualizations)
 This project uses a combination of SQL and Tableau to create useful visualization dashboards and draw conclusions about Northwind Traders business. I first used PostgreSQL to access the Northwind Traders database; creating the tables I used in my visualization and to do further analysis on the data. Using Tableau I created [2 Dashboards](https://public.tableau.com/app/profile/giovanni.pecorino/viz/NorthwindDashboards/SalesBreakdown?publish=yes), one looks directly at sales data while the other one focuses on employee performance. Both dashboards are interactive and give meaningful insight into the inner workings of Northwind Traders.
 
 ## Sales Breakdown Dashboard ![](images/Sales%20Breakdown.png)
